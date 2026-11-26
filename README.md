@@ -21,4 +21,3 @@ Shared styles live in `assets/css/style.css`, behaviour in `assets/js/main.js`, 
 - Swap affiliation names for approved logos (home page logo banner, founder page journey).
 - Add footer contact details and social links.
 - Connect the enquiry form to MentorLink's inbox (see `TODO` in `assets/js/main.js`).
-- Remove the "Draft for client review" bar in the header of each page.
